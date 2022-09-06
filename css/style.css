@@ -1,0 +1,35 @@
+.nav-color{
+	background-color: #F0FFF0;
+}
+.container{
+	margin-bottom: 30px;
+	padding-bottom: 40px;
+}
+.pri-btn{
+	background-image: linear-gradient(to bottom, #21B573 0%, #21B573 90%);
+	color: white;
+	font-style: roboto;
+	font-size: 16px;
+	border: none;
+	border-radius: 10px;
+	padding: 9px 25px;
+	cursor: pointer;
+}
+.navbar{
+	color: black;
+}
+p{
+	font-size: 16px;
+	color: #585859;
+}
+.card-shadow{
+	border: none;
+	box-shadow: 5px 10px 20px gray;
+}
+footer{
+	background-color: #282531;
+	height: 369px;
+}
+.choto{
+	padding-left: 5px;
+}
